@@ -1,0 +1,11 @@
+[package]
+name = "simpler_pathmarcher"
+version = "0.1.0"
+authors = ["Robert J Ennis <Robert.Ennis@psychol.uni-giessen.de>"]
+
+[dependencies]
+processing = { path = "/Users/rje/my_docs/projects/processing-rs/" }
+glium = "0.22.0"
+lodepng = "1.2.2"
+byteorder = "1"
+gl = "0.6.3"
